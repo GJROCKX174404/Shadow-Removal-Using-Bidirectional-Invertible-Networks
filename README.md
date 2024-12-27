@@ -1,1 +1,1 @@
-# Shadow-Removal-Using-Bidirectional-Invertible-Networks
+# Shadow-Removal-Using-Bidirectional-Invertible-Network
