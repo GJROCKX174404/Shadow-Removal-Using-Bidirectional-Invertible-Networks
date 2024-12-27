@@ -17,6 +17,8 @@ This Repository consists of a deep-learning model for Digital Image Shadow Remov
 - **Initial Learning Rates:**
   - Color Transfer: $$4 \times 10^{-4}$$
   - MainNet: $$2 \times 10^{-4}$$
+## Results
+![Project Logo](Results.png)
 
 
 
